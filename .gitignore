@@ -1,0 +1,13 @@
+
+# Node.js
+/node_modules
+
+# Dependency directories
+npm-debug.log
+yarn-error.log
+
+# Optional npm cache directory
+.npm
+
+# Environment variables
+.env
